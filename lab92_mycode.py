@@ -82,3 +82,5 @@ if __name__ == "__main__":
     mylab92 = mylab92class()
     MainWindow.show()
     sys.exit(app.exec_())
+
+## giftnaaa
