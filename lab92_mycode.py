@@ -75,6 +75,8 @@ class mylab92class(Ui_MainWindow):
     def offclick(self):
         self.ser.write('d'.encode())
 
+# Comment
+
 
 if __name__ == "__main__":
     mylab92 = mylab92class()
